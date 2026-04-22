@@ -1,0 +1,1 @@
+import Pessoa from "./model/Pessoa";
